@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 00065ecf01692cc43beddddd952715fa, type: 3}
+  m_Name: Price Boll
+  m_EditorClassIdentifier: 
+  _entity: {fileID: 3568928666265879411, guid: e1489758de457894f89a31b6ebaee72c, type: 3}
+  _price: 100
+  _purchased: 1
+  "_\u0441urrency\u0421ontainer": {fileID: 11400000, guid: 468c362a3cd763341a1c236f24a4b8f8,
+    type: 2}
